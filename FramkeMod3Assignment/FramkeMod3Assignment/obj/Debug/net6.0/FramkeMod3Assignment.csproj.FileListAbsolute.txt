@@ -1,0 +1,15 @@
+C:\Users\afram\source\repos\DotNetDBMod3Assignment\FramkeMod3Assignment\FramkeMod3Assignment\bin\Debug\net6.0\FramkeMod3Assignment.exe
+C:\Users\afram\source\repos\DotNetDBMod3Assignment\FramkeMod3Assignment\FramkeMod3Assignment\bin\Debug\net6.0\FramkeMod3Assignment.deps.json
+C:\Users\afram\source\repos\DotNetDBMod3Assignment\FramkeMod3Assignment\FramkeMod3Assignment\bin\Debug\net6.0\FramkeMod3Assignment.runtimeconfig.json
+C:\Users\afram\source\repos\DotNetDBMod3Assignment\FramkeMod3Assignment\FramkeMod3Assignment\bin\Debug\net6.0\FramkeMod3Assignment.dll
+C:\Users\afram\source\repos\DotNetDBMod3Assignment\FramkeMod3Assignment\FramkeMod3Assignment\bin\Debug\net6.0\FramkeMod3Assignment.pdb
+C:\Users\afram\source\repos\DotNetDBMod3Assignment\FramkeMod3Assignment\FramkeMod3Assignment\obj\Debug\net6.0\FramkeMod3Assignment.csproj.AssemblyReference.cache
+C:\Users\afram\source\repos\DotNetDBMod3Assignment\FramkeMod3Assignment\FramkeMod3Assignment\obj\Debug\net6.0\FramkeMod3Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afram\source\repos\DotNetDBMod3Assignment\FramkeMod3Assignment\FramkeMod3Assignment\obj\Debug\net6.0\FramkeMod3Assignment.AssemblyInfoInputs.cache
+C:\Users\afram\source\repos\DotNetDBMod3Assignment\FramkeMod3Assignment\FramkeMod3Assignment\obj\Debug\net6.0\FramkeMod3Assignment.AssemblyInfo.cs
+C:\Users\afram\source\repos\DotNetDBMod3Assignment\FramkeMod3Assignment\FramkeMod3Assignment\obj\Debug\net6.0\FramkeMod3Assignment.csproj.CoreCompileInputs.cache
+C:\Users\afram\source\repos\DotNetDBMod3Assignment\FramkeMod3Assignment\FramkeMod3Assignment\obj\Debug\net6.0\FramkeMod3Assignment.dll
+C:\Users\afram\source\repos\DotNetDBMod3Assignment\FramkeMod3Assignment\FramkeMod3Assignment\obj\Debug\net6.0\refint\FramkeMod3Assignment.dll
+C:\Users\afram\source\repos\DotNetDBMod3Assignment\FramkeMod3Assignment\FramkeMod3Assignment\obj\Debug\net6.0\FramkeMod3Assignment.pdb
+C:\Users\afram\source\repos\DotNetDBMod3Assignment\FramkeMod3Assignment\FramkeMod3Assignment\obj\Debug\net6.0\FramkeMod3Assignment.genruntimeconfig.cache
+C:\Users\afram\source\repos\DotNetDBMod3Assignment\FramkeMod3Assignment\FramkeMod3Assignment\obj\Debug\net6.0\ref\FramkeMod3Assignment.dll
